@@ -45,8 +45,6 @@ This repository documents my journey of solving DSA problems consistently for 10
 ## 🧰 Languages Used
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 > *(Update with the language(s) you are using)*
 
@@ -93,4 +91,4 @@ If this repo helps or inspires you, please consider giving it a **star** ⭐ —
 
 ---
 
-*Started: [Add Start Date] &nbsp;|&nbsp; Goal: 100 Days of Consistent DSA Practice*
+*Started: [05 February 2026] &nbsp;|&nbsp; Goal: 100 Days of Consistent DSA Practice*
