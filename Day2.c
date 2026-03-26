@@ -17,6 +17,7 @@ int main(){
     for (int i = pos - 1; i < a - 1; i++) {
         array[i] = array[i + 1];
     }
+    
     for (int i = 0; i < a - 1; i++) {
         printf("%d", array[i]);
         if (i < a - 2) printf(" ");
