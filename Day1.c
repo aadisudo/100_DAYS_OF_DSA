@@ -18,7 +18,6 @@ int main(){
     }
 
     array[pos - 1] = temp;
-
     for (int i = 0; i <= a; i++) {
         printf("%d", array[i]);
         if (i < a) printf(" ");
