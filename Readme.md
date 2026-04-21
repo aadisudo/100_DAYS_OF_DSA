@@ -12,18 +12,6 @@ This repository documents my journey of solving DSA problems consistently for 10
 
 ---
 
-## 📅 Progress Tracker
-
-| Day | Topic | Problem | Solution |
-|-----|-------|---------|----------|
-| Day 1 | Arrays | - | - |
-| Day 2 | Arrays | - | - |
-| ... | ... | ... | ... |
-
-> ✅ Completed &nbsp; 🔄 In Progress &nbsp; ⏳ Upcoming
-
----
-
 ## 🗂️ Topics Covered
 
 - [ ] Arrays & Strings
